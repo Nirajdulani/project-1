@@ -1,0 +1,41 @@
+body{
+
+    background-color: rgb(228, 216, 216);
+    height: 100vh;
+    width: 100vh;
+
+}
+.container{
+
+    background-color: rgb(240, 240, 241);
+    height: 100vh;
+    width: 195%;
+
+    
+}
+.home{
+
+        font-style: italic;
+        border: none;
+        
+        
+        
+}
+.j{
+
+        padding-right: 60%;
+        word-spacing: 30px;
+}
+.k{
+    padding: 20px;
+    word-spacing: 20px;
+}
+.kk
+{
+    padding-right: 100px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 300%;
+    justify-items: center;
+    
+
+}
